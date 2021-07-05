@@ -1,7 +1,7 @@
 # Tests
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
-npm install pour installer tous les composants nécessaires
+`npm install` pour installer tous les composants nécessaires
 
 ## Development server
 
